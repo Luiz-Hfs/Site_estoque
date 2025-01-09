@@ -1,0 +1,1 @@
+{"name":"Camisa","quantity":15,"image":"data:image/png;base64,..."}
